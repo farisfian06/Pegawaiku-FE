@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useSearch } from "./hooks/useSearch";
 import { useEmployee } from "./hooks/useEmployee";
 import Search from "../../components/Search";
